@@ -41,6 +41,18 @@
                 "name":"旅遊",
                 "code":"travel",
                 "content":"還在想介紹6"
+            },
+            {
+                "cid":8,
+                "name":"穿搭保養",
+                "code":"sedo",
+                "content":"還在想介紹7"
+            },
+            {
+                "cid":9,
+                "name":"程式",
+                "code":"program",
+                "content":"紀錄一些容易忘的"
             }
         ]
 }

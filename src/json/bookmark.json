@@ -11,7 +11,7 @@
             {   
                 "bid":2,
                 "name":"Github",
-                "code":"tools",
+                "code":"program",
                 "content":"",
                 "url":"https://github.com/"
             },
@@ -68,7 +68,7 @@
                 "bid":10,
                 "name":"AsiaYo",
                 "code":"travel",
-                "content":"訂房都用這個",
+                "content":"訂房用",
                 "url":"https://asiayo.com/zh-tw/"
             },
             {
@@ -88,7 +88,7 @@
             {
                 "bid":13,
                 "name":"Finfo",
-                "code":"tools",
+                "code":"finance",
                 "content":"保險資訊站",
                 "url":"https://finfo.tw/"
             },
@@ -154,6 +154,223 @@
                 "code":"lookforjob",
                 "content":"",
                 "url":"https://www.yourator.co/"
+            },
+            {
+                "bid":23,
+                "name":"Yu02",
+                "code":"japan",
+                "content":"華視-空中日文教室",
+                "url":"https://www.youtube.com/watch?v=1U4TnbVcKW8&list=PL16E03805CA5F97C9"
+            },
+            {
+                "bid":24,
+                "name":"Yu03",
+                "code":"japan",
+                "content":"日本語の森",
+                "url":"https://www.youtube.com/user/freejapaneselessons3/featured"
+            },
+            {
+                "bid":25,
+                "name":"音速日語",
+                "code":"japan",
+                "content":"",
+                "url":"https://jp.sonic-learning.com/"
+            },
+            {
+                "bid":26,
+                "name":"agoda",
+                "code":"travel",
+                "content":"訂房用",
+                "url":"https://www.agoda.com/"
+            },
+            {
+                "bid":27,
+                "name":"hutchgo",
+                "code":"travel",
+                "content":"訂機票用",
+                "url":"https://www.agoda.com/"
+            },
+            {
+                "bid":28,
+                "name":"ig參考01",
+                "code":"sedo",
+                "content":"onece.co",
+                "url":"https://www.instagram.com/onece.co/"
+            },
+            {
+                "bid":29,
+                "name":"ig參考02",
+                "code":"sedo",
+                "content":"apckr",
+                "url":"https://www.instagram.com/apckr/"
+            },
+            {
+                "bid":30,
+                "name":"uniqlo",
+                "code":"sedo",
+                "content":"",
+                "url":"https://www.uniqlo.com/"
+            },
+            {
+                "bid":31,
+                "name":"hotpepper",
+                "code":"sedo",
+                "content":"日本髮型網站1",
+                "url":"https://beauty.hotpepper.jp/"
+            },
+            {
+                "bid":32,
+                "name":"hairstyle",
+                "code":"sedo",
+                "content":"日本髮型網站2",
+                "url":"https://mens-hairstyle.jp/"
+            },
+            {
+                "bid":33,
+                "name":"udemy",
+                "code":"tools",
+                "content":"線上課程網站",
+                "url":"https://www.udemy.com/"
+            },
+            {
+                "bid":34,
+                "name":"前端懶人包",
+                "code":"lookforjob",
+                "content":"",
+                "url":"https://www.hexschool.com/qa/how-to.html"
+            },
+            {
+                "bid":35,
+                "name":"wear",
+                "code":"sedo",
+                "content":"",
+                "url":"https://wear.jp/"
+            },
+            {
+                "bid":36,
+                "name":"HEIC to JPG",
+                "code":"tools",
+                "content":"",
+                "url":"https://www.apowersoft.tw/heic-to-jpg"
+            },
+            {
+                "bid":37,
+                "name":"UQ 比價",
+                "code":"sedo",
+                "content":"",
+                "url":"https://uq.goodjack.tw/"
+            },            
+            {
+                "bid":38,
+                "name":"愛料理",
+                "code":"tools",
+                "content":"",
+                "url":"https://icook.tw/"
+            },
+            {
+                "bid":39,
+                "name":"時雨の町",
+                "code":"japan",
+                "content":"",
+                "url":"https://www.sigure.tw/"
+            },
+            {
+                "bid":40,
+                "name":"WEBP to PNG",
+                "code":"tools",
+                "content":"",
+                "url":"https://www.aconvert.com/tw/image/webp-to-png/"
+            },
+            {
+                "bid":41,
+                "name":"Airbnb",
+                "code":"travel",
+                "content":"",
+                "url":"https://www.airbnb.com.tw/"
+            },
+            {   
+                "bid":42,
+                "name":"JavaScript",
+                "code":"program",
+                "content":"拷貝數組的方法",
+                "url":"https://segmentfault.com/a/1190000018947028"
+            },
+            {   
+                "bid":43,
+                "name":"Csharp",
+                "code":"program",
+                "content":"正則運算式判斷",
+                "url":"https://dotblogs.com.tw/kinanson/2013/05/23/104772"
+            },
+            {   
+                "bid":43,
+                "name":"Csharp",
+                "code":"program",
+                "content":"DateTime.Now函數詳解",
+                "url":"https://dotblogs.com.tw/teng1026/2011/06/27/30212"
+            },
+            {   
+                "bid":44,
+                "name":"證券櫃檯買賣中心",
+                "code":"finance",
+                "content":"",
+                "url":"https://www.tpex.org.tw/web/?l=zh-tw"
+            },
+            {   
+                "bid":45,
+                "name":"財報狗",
+                "code":"finance",
+                "content":"",
+                "url":"https://statementdog.com/blog/archives/category/foundation-tutorial"
+            },
+            {   
+                "bid":46,
+                "name":"保險雲世代",
+                "code":"finance",
+                "content":"",
+                "url":"https://www.tw-insurance.info/"
+            },
+            {
+                "bid":47,
+                "name":"查自己ip",
+                "code":"tools",
+                "content":"",
+                "url":"https://www.ip-adress.com/"
+            },
+            {   
+                "bid":48,
+                "name":"SQL Tutorial",
+                "code":"program",
+                "content":"",
+                "url":"https://www.w3schools.com/sql/default.asp"
+            },
+            {   
+                "bid":49,
+                "name":"SQL 語法教學",
+                "code":"program",
+                "content":"",
+                "url":"https://www.1keydata.com/tw/sql/sql.html"
+            },
+            {   
+                "bid":50,
+                "name":"Codepen",
+                "code":"program",
+                "content":"",
+                "url":"https://codepen.io/"
+            },
+            {   
+                "bid":51,
+                "name":"SQL",
+                "code":"program",
+                "content":"Date/Time 格式轉換",
+                "url":"https://networking.ringofsaturn.com/SQL/howtoformatdatetime.php"
+            },
+            {   
+                "bid":52,
+                "name":"ASCII Codes Table",
+                "code":"program",
+                "content":"",
+                "url":"https://ascii.cl/"
             }
         ]
 }
