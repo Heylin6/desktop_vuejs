@@ -462,6 +462,34 @@
                 "code":"tools",
                 "content":"",
                 "url":"http://lib.ebookservice.tw/ks/#"
+            },            
+            {
+                "bid":66,
+                "name":"讀冊-二手書",
+                "code":"tools",
+                "content":"",
+                "url":"https://www.taaze.tw/index.html"
+            },            
+            {
+                "bid":67,
+                "name":"書寶-二手書",
+                "code":"tools",
+                "content":"",
+                "url":"https://www.spbook.com.tw/"
+            },
+            {   
+                "bid":68,
+                "name":"接案參考",
+                "code":"program",
+                "content":"開發參考合約",
+                "url":"http://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040140061001700-0000101"
+            },
+            {   
+                "bid":68,
+                "name":"接案參考",
+                "code":"program",
+                "content":"",
+                "url":"https://www.ptt.cc/bbs/soho/M.1263790726.A.837.html"
             }
         ]
 }
