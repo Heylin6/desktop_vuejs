@@ -542,10 +542,45 @@
             },
             {   
                 "bid":76,
-                "name":"接口請求測試工具",
+                "name":"接口請求測試",
                 "code":"program",
                 "content":"類似 postman",
                 "url":"http://coolaf.com/"
+            },
+            {
+                "bid":77,
+                "name":"博客來",
+                "code":"entrance",
+                "content":"",
+                "url":"https://www.books.com.tw/"
+            },
+            {
+                "bid":78,
+                "name":"Citiesocial",
+                "code":"entrance",
+                "content":"資金募集平台",
+                "url":"https://www.citiesocial.com/"
+            },
+            {
+                "bid":79,
+                "name":"GU",
+                "code":"sedo",
+                "content":"",
+                "url":"https://www.gu-global.com/tw/"
+            },
+            {
+                "bid":80,
+                "name":"Rageblue",
+                "code":"sedo",
+                "content":"",
+                "url":"https://www.dot-st.com/rageblue/"
+            },            
+            {
+                "bid":81,
+                "name":"Mega",
+                "code":"tools",
+                "content":"",
+                "url":"https://mega.nz/"
             }
         ]
 }
