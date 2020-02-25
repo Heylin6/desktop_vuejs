@@ -490,6 +490,62 @@
                 "code":"program",
                 "content":"",
                 "url":"https://www.ptt.cc/bbs/soho/M.1263790726.A.837.html"
+            },            
+            {
+                "bid":69,
+                "name":"Amazon",
+                "code":"entrance",
+                "content":"",
+                "url":"https://www.amazon.com/ref=AE_DT_Q4_Ads_EV_TW_SB_DBM_DT_BL_CPM&language=zh_TW"
+            },            
+            {
+                "bid":70,
+                "name":"Wego",
+                "code":"sedo",
+                "content":"",
+                "url":"https://wegoec.jp/shop/default.aspx"
+            },            
+            {
+                "bid":71,
+                "name":"United Arrows",
+                "code":"sedo",
+                "content":"",
+                "url":"https://store.united-arrows.tw/"
+            },            
+            {
+                "bid":72,
+                "name":"生活市集",
+                "code":"entrance",
+                "content":"",
+                "url":"https://www.buy123.com.tw/"
+            },            
+            {
+                "bid":73,
+                "name":"Rakuten 樂天",
+                "code":"entrance",
+                "content":"",
+                "url":"https://www.rakuten.com.tw/?l-id=rakuten_top_header_logo"
+            },
+            {   
+                "bid":74,
+                "name":"LeetCode",
+                "code":"program",
+                "content":"大陸版",
+                "url":"https://leetcode-cn.com/problemset/all/"
+            },
+            {   
+                "bid":75,
+                "name":"加解密",
+                "code":"program",
+                "content":"測試加解密字串",
+                "url":"https://8gwifi.org/CipherFunctions.jsp"
+            },
+            {   
+                "bid":76,
+                "name":"接口請求測試工具",
+                "code":"program",
+                "content":"類似 postman",
+                "url":"http://coolaf.com/"
             }
         ]
 }
