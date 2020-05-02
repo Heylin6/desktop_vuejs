@@ -581,6 +581,27 @@
                 "code":"tools",
                 "content":"",
                 "url":"https://mega.nz/"
+            },
+            {
+                "bid":82,
+                "name":"eMask",
+                "code":"tools",
+                "content":"口罩預購系統",
+                "url":"https://emask.taiwan.gov.tw/msk/index.jsp"
+            },
+            {   
+                "bid":83,
+                "name":"MavenRepo",
+                "code":"program",
+                "content":"SpringBoot放pom",
+                "url":"https://mvnrepository.com/"
+            },
+            {   
+                "bid":84,
+                "name":"DesignPatterns",
+                "code":"program",
+                "content":"設計模式參考",
+                "url":"http://www.dotspace.idv.tw/Patterns/Jdon_DesignPatterns.htm"
             }
         ]
 }
